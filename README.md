@@ -8,7 +8,7 @@
 3. Media queries
 4. БЭМ
 
-Ссылка на проект: 
+Ссылка на проект: https://ernest-akhmirov.github.io/russian-travel-bootcamp/
 
 Планы по доработке:
 Добавить больше изображений в блоке places с ипользовние JS.
