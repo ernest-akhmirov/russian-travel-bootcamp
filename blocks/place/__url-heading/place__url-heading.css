@@ -1,4 +1,4 @@
-.place__website__title{
+.place__url-heading{
   margin: 0 0 12px;
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 1023px) {
-  .place__website__title {
+  .place__url-heading {
     line-height: 12px;
   }
 }
