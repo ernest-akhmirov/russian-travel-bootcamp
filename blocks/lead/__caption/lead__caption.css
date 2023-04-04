@@ -6,6 +6,7 @@
   line-height: 14px;
   color: #FFF;
   letter-spacing: 1.5px;
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 1023px) {
